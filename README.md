@@ -1,3 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=8E34F7&center=true&width=435&lines=Hi!+I'm+Josh...;Welcome+to+my+profile!)](https://git.io/typing-svg)
+## Joshua Bostock
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbostock03&layout=compact)
+**`MSci Astrophysics Student at UCL | Exchange Student at the University of Washington`**
+
+I'm Josh, an undergraduate student in Astrophysics. I'm a fast learner, who works well both collaboratively and independently to complete tasks and make informed decisions at hand. I am keen to have new experiences and engage with new people to enrich my skill set and further my knowledge.
+
+### Languages & Tools
+
+<img align="left" alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="$\LaTeX$" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+<img align="left" alt="GitHub" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="GIMP" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />
+
+Python packages: `numpy` `astropy` `pandas` `scipy` `matplotlib` `astroML`
+
+### Career & Professional Development
+
+<img align="left" alt="LinkedIn" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+
+[CV](https:/github.com/jbostock03/jbostock03/)
