@@ -19,8 +19,9 @@ Python packages: `numpy` `astropy` `pandas` `scipy` `matplotlib` `astroML`
 ## Career & Professional Development
 
 [<img align="left" alt="LinkedIn" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/joshuabostock/)
+[<img align="left" alt="ORCiD" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/orcid.svg" />](https://orcid.org/0009-0005-9049-2460)
 
 <br>
 <br>
 
-[Check out my CV here](https://github.com/jbostock03/jbostock03/tree/main/Documents)
+[<img align="left" alt="CV" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-signature.svg" /> Check out my CV](https://github.com/jbostock03/jbostock03/tree/main/Documents)
