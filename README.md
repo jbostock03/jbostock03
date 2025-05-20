@@ -13,6 +13,7 @@ I'm Josh, an undergraduate student in Astrophysics. I'm a fast learner, who work
 
 <br>
 <br>
+
 Python packages: `numpy` `astropy` `pandas` `scipy` `matplotlib` `astroML`
 
 ### Career & Professional Development
