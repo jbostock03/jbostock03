@@ -23,4 +23,4 @@ Python packages: `numpy` `astropy` `pandas` `scipy` `matplotlib` `astroML`
 <br>
 <br>
 
-[Check out my CV here](https://github.com/jbostock03/jbostock03/tree/main/Documents))
+[Check out my CV here](https://github.com/jbostock03/jbostock03/tree/main/Documents)
