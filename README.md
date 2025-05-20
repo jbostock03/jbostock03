@@ -1,6 +1,6 @@
 # Joshua Bostock
 
-**`MSci Astrophysics Student at UCL | Exchange Student at the University of Washington`**
+**`MSci Astrophysics Student at University College London | Exchange Student at the University of Washington`**
 
 I'm Josh, an undergraduate student in Astrophysics. I'm a fast learner, who works well both collaboratively and independently to complete tasks and make informed decisions at hand. I am keen to have new experiences and engage with new people to enrich my skill set and further my knowledge.
 
