@@ -12,6 +12,7 @@ I'm Josh, an undergraduate student in Astrophysics. I'm a fast learner, who work
 <img align="left" alt="GIMP" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />  
 
 <br>
+<br>
 Python packages: `numpy` `astropy` `pandas` `scipy` `matplotlib` `astroML`
 
 ### Career & Professional Development
