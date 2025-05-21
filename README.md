@@ -2,7 +2,9 @@
 
 **`MSci Astrophysics Student at University College London | Exchange Student at the University of Washington`**
 
-<!-- I'm Josh, an undergraduate student in Astrophysics. I'm a fast learner, who works well both collaboratively and independently to complete tasks and make informed decisions at hand. I am keen to have new e experiences and engage with new people to enrich my skill set and further my knowledge. -->
+I'm Josh, an undergraduate student in Astrophysics with a projected First Class standing and research experience in observational and computational astronomy. Highly adaptable, with strong Python programming skills, cross-cultural academic experience in the UK and US, and a passion for data-driven problem solving. Seeking to apply analytical and collaborative strengths in scientific research or data science roles.
+
+![NGC 4490](https://github.com/jbostock03/jbostock03/blob/main/ngc4490.png)
 
 ## Languages & Tools
 
