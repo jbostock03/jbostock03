@@ -4,7 +4,7 @@
 
 I'm Josh, an undergraduate student in Astrophysics with a projected First Class standing and research experience in observational and computational astronomy. Highly adaptable, with strong Python programming skills, cross-cultural academic experience in the UK and US, and a passion for data-driven problem solving. Seeking to apply analytical and collaborative strengths in scientific research or data science roles.
 
-<img align="center" alt="NGC 4490" width="1000px" src="https://github.com/jbostock03/jbostock03/blob/main/ngc4490.png" />
+<img align="center" alt="NGC 4490" width="750px" src="https://github.com/jbostock03/jbostock03/blob/main/ngc4490.png" />
 
 ## Languages & Tools
 
