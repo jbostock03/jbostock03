@@ -6,7 +6,7 @@ I'm Josh, an undergraduate student in Astrophysics with a projected First Class 
   
 <img align="center" alt="NGC 4490" width="750px" src="https://github.com/jbostock03/jbostock03/blob/main/ngc4490.png" />
 
-_**NGC 4490 -- Cocoon Galaxy**_
+_**NGC 4490: Cocoon Galaxy**_
 
 ## Languages & Tools
 
