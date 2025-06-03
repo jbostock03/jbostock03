@@ -19,7 +19,7 @@ _**NGC 4490: Cocoon Galaxy**_
 <br>
 <br>
 
-Python packages: `numpy` `astropy` `pandas` `scipy` `matplotlib` `astroML`
+Python packages: `numpy` `astropy` `pandas` `scipy` `matplotlib` `astroML` `seaborn`
 
 ## Career & Professional Development
 
