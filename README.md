@@ -1,8 +1,6 @@
 # Joshua Bostock
 
 **`MSci Astrophysics Student at University College London`**
-
-I'm Josh, an Astrophysics undergraduate student at UCL with a projected First Class standing and experience in observational and computational astronomy. Highly adaptable, with strong Python programming skills, cross-cultural academic experience, and a passion for data-driven problem solving. Seeking to apply analytical and collaborative strengths in scientific research.
   
 <img align="center" alt="NGC 4490" width="750px" src="https://github.com/jbostock03/jbostock03/blob/main/ngc4490.png" />
 
